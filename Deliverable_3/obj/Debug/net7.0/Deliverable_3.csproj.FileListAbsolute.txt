@@ -1,0 +1,15 @@
+/Users/dominiquemamazza/Projects/Deliverable_3/Deliverable_3/obj/Debug/net7.0/Deliverable_3.csproj.AssemblyReference.cache
+/Users/dominiquemamazza/Projects/Deliverable_3/Deliverable_3/obj/Debug/net7.0/Deliverable_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominiquemamazza/Projects/Deliverable_3/Deliverable_3/obj/Debug/net7.0/Deliverable_3.AssemblyInfoInputs.cache
+/Users/dominiquemamazza/Projects/Deliverable_3/Deliverable_3/obj/Debug/net7.0/Deliverable_3.AssemblyInfo.cs
+/Users/dominiquemamazza/Projects/Deliverable_3/Deliverable_3/obj/Debug/net7.0/Deliverable_3.csproj.CoreCompileInputs.cache
+/Users/dominiquemamazza/Projects/Deliverable_3/Deliverable_3/bin/Debug/net7.0/Deliverable_3
+/Users/dominiquemamazza/Projects/Deliverable_3/Deliverable_3/bin/Debug/net7.0/Deliverable_3.deps.json
+/Users/dominiquemamazza/Projects/Deliverable_3/Deliverable_3/bin/Debug/net7.0/Deliverable_3.runtimeconfig.json
+/Users/dominiquemamazza/Projects/Deliverable_3/Deliverable_3/bin/Debug/net7.0/Deliverable_3.dll
+/Users/dominiquemamazza/Projects/Deliverable_3/Deliverable_3/bin/Debug/net7.0/Deliverable_3.pdb
+/Users/dominiquemamazza/Projects/Deliverable_3/Deliverable_3/obj/Debug/net7.0/Deliverable_3.dll
+/Users/dominiquemamazza/Projects/Deliverable_3/Deliverable_3/obj/Debug/net7.0/refint/Deliverable_3.dll
+/Users/dominiquemamazza/Projects/Deliverable_3/Deliverable_3/obj/Debug/net7.0/Deliverable_3.pdb
+/Users/dominiquemamazza/Projects/Deliverable_3/Deliverable_3/obj/Debug/net7.0/Deliverable_3.genruntimeconfig.cache
+/Users/dominiquemamazza/Projects/Deliverable_3/Deliverable_3/obj/Debug/net7.0/ref/Deliverable_3.dll
